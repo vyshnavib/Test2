@@ -2,6 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>37.0</version>
     <types>
+        <members>AC123</members>
+        <members>AC1234</members>
         <members>DemoCreateAccount8</members>
         <members>DemoCreateAccount9</members>
         <members>KA1</members>
