@@ -12,4 +12,9 @@
         <members>KA2</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Case.Standard</members>
+        <members>Lead.Standard</members>
+        <name>AssignmentRule</name>
+    </types>
 </Package>
