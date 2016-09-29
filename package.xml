@@ -12,4 +12,8 @@
         <members>KA2</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>standard__AppLauncher</members>
+        <name>CustomApplication</name>
+    </types>
 </Package>
