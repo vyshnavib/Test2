@@ -12,4 +12,10 @@
         <members>KA2</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Account.CustomerPriority__c</members>
+        <members>Account.NumberofLocations__c</members>
+        <members>Account.SLAExpirationDate__c</members>
+        <name>CustomField</name>
+    </types>
 </Package>
