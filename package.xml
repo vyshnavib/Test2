@@ -13,9 +13,17 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Case.Standard</members>
+        <members>Lead.Standard</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
         <members>standard__Community</members>
+        <members>standard__Content</members>
+        <members>standard__Insights</members>
+        <members>standard__Marketing</members>
         <name>CustomApplication</name>
     </types>
 </Package>
