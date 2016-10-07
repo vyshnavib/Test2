@@ -13,9 +13,18 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Internal Zone</members>
+        <name>Community</name>
+    </types>
+    <types>
         <members>Account.CustomerPriority__c</members>
         <members>Account.NumberofLocations__c</members>
         <members>Account.SLAExpirationDate__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>unfiled$public/SupportCaseAssignmentNotification</members>
+        <members>unfiled$public/SupportCaseCreatedPhoneInquiries</members>
+        <name>EmailTemplate</name>
     </types>
 </Package>
